@@ -64,7 +64,7 @@
 </div>
 
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gabrielgx)](https://open.spotify.com/user/jeffreyca16)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=marcosgabrielgx)](https://open.spotify.com/user/jeffreyca16)
 
 
 
