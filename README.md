@@ -1,2 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgx&,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgx&contribs,prs)
 
