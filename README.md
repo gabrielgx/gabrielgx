@@ -45,9 +45,9 @@
    <a href = "https://www.linkedin.com/in/marcos-gabriel-silva-mendes-b9364a182/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
   
 <div align="left" text-align="justify">
-  <p> Olá me chamo Vitória Regina, tenho 18 anos, comecei o curso técnico de informática para internet em Setembro de 2021 e tenho objetivo de ser uma desenvolvedora Front-End </p>
+  <p> Me chamo Marcos Gabriel, iniciei na computação aos 8 anos de idade. Comecei a desenvolver jogos em 2017, meu maior objetivo é me tornar um nome grande na industria e marcar a vida de todos que jogarem meus jogos. </p>
 <div align="center">
-  <img align="center" alt="Vitória-gif" src="https://cdn.discordapp.com/attachments/889572946300006450/889574286841483274/output-onlinegiftools.gif">
+  <img align="center" alt="Gabriel-gif" src="https://c.tenor.com/2awvAjW0yIcAAAAC/deku.gif">
 </div>
 <hr>
 <div align="center">
@@ -62,31 +62,6 @@
   <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
   <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgx&layout=compact&theme=radical)
-)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-
 
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
