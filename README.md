@@ -1,17 +1,4 @@
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-</div>
- 
- 
+
 ### Hi, I'm Marcos Gabriel
 
 🌱 I'm an Indie game developer.<br> 
@@ -50,21 +37,9 @@
   <img align="center" alt="Gabriel-gif" src="https://c.tenor.com/2awvAjW0yIcAAAAC/deku.gif">
 </div>
 <hr>
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-</div>
 
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=marcosgabrielgx)](https://open.spotify.com/user/jeffreyca16)
+
 
 
 
