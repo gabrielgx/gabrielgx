@@ -31,7 +31,7 @@
    <a href = "https://www.linkedin.com/in/marcos-gabriel-silva-mendes-b9364a182/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
   
 <div align="left" text-align="justify">
-  <p> Me chamo Marcos Gabriel, iniciei na computação aos 8 anos de idade. Comecei a desenvolver jogos em 2017, meu maior objetivo é me tornar um nome grande na industria e marcar a vida de todos que jogarem meus jogos. </p>
+  <p> My name is Marcos Gabriel, I started in computing when I was 8 years old. I started developing games in 2017, my biggest goal is to become a big name in the industry and mark the lives of everyone who plays my games. </p>
 <div align="center">
   <img align="center" alt="Gabriel-gif" src="https://c.tenor.com/2awvAjW0yIcAAAAC/deku.gif">
 </div>
